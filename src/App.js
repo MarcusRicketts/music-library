@@ -1,16 +1,26 @@
 import React, {Component} from 'react';
-import MusicList from './Components/MusicList';
-import axios from "axios";
-
+import axios from 'axios';
+import MusicList from './Components/MusicList/MusicList';
+import MyLogo from './Components/Logo/MyLogo';
+import './app.css';
 
 class App extends Component{
+    state = {}
+
+    componentDidMount(){
+
+        axios.get(`localhost:5000`)
+        .then(res => {
+            console.log(res);
+        });
+};
+
     render(){ 
         return(
         <div>
-            <h1>Hello</h1>
+            <MyLogo/>
             <MusicList/>
-            <h1>Did this load?</h1>
-
+            
         </div>
         
     );

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 972.1 264.3" style="enable-background:new 0 0 972.1 264.3;" xml:space="preserve">
+<g id="music_library_layer">
+	<text transform="matrix(0.4468 0 0 1 231.2812 203.2826)" class="st0 st1">Music Library</text>
+	<polyline id="m_leg" points="236,180.1 256,180.1 256,231.3 236,231.3 	"/>
+	<path id="underline" d="M944,218.8l0,7.2c0,7.1-5.7,12.8-12.8,12.8L248.7,238c-7.1,0-12.8-5.7-12.8-12.8l0-7.2"/>
+</g>
+<g id="circle_5_layer">
+	<ellipse id="circle_5" cx="111.5" cy="134.3" rx="93.5" ry="99"/>
+</g>
+<g id="circle_4_layer">
+	<ellipse id="circle_4" class="st2" cx="110.9" cy="134.8" rx="82.6" ry="87.5"/>
+</g>
+<g id="circle_3_layer">
+	<ellipse id="circle_3" class="st3" cx="111.6" cy="134.2" rx="76.4" ry="80.9"/>
+</g>
+<g id="circle_2_layer">
+	<ellipse id="circle_2" class="st2" cx="112" cy="134.8" rx="63.8" ry="67.5"/>
+</g>
+<g id="circle_1_layer">
+	<ellipse id="circle_1" cx="111.7" cy="135.3" rx="26.5" ry="28"/>
+</g>
+</svg>

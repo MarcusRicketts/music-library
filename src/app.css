@@ -1,0 +1,31 @@
+.myLogo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 200px;
+  margin-bottom: 0px;
+  padding-bottom: 0%;
+}
+
+.st0 {
+  font-family: "Phosphate-Solid";
+}
+.st1 {
+  font-size: 216.2607px;
+}
+.st2 {
+  fill: #e8ff50;
+}
+.st3 {
+  fill: #b173e4;
+}
+.st4 {
+  fill: #ffffff;
+}
+
+.bottom-spacer {
+  margin-top: 100px;
+  background-color: salmon;
+  width: 100%;
+  height: 200px;
+}
